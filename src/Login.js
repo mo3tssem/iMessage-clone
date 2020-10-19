@@ -15,7 +15,8 @@ function Login() {
           src="https://upload.wikimedia.org/wikipedia/commons/5/51/IMessage_logo.svg"
           alt=""
         />
-        <h1> iMessage </h1>
+        <h1> iMessage clone</h1>
+        <h5>By Mo3tssem</h5>
       </div>
       <Button onClick={signIn}>sign in</Button>
     </div>
